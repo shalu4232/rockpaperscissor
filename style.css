@@ -61,7 +61,7 @@ input:checked ~ div .hand {
   position: absolute;
   box-sizing: border-box;
   border: 2px solid black;
-  background: gold;
+  background: green;
   transition: all 0.1s;
 }
 
